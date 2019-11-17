@@ -1,1 +1,1 @@
-# Spatial_Data_Management_with_PostgreSQL_PostGIS
+# Spatial Data Management with PostgreSQL PostGIS
